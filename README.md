@@ -6,7 +6,7 @@ I'm a student and aspiring developer passionate about artificial intelligence an
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek A;+Full+Stack+Developer🚀;" />
 </h1>
 
-<h3 align="center">💻 Passionate Software Developer from Canada 🇨🇦</h3>
+<h3 align="center">💻 Passionate Software Developer </h3>
 
 ---
 
