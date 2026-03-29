@@ -10,17 +10,16 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Student passionate about **AI, Machine Learning & Web Development**
-- 🔭 Currently working on **AI-based projects & mini applications**
-- 🌱 Learning **Deep Learning, NLP, Docker & Cloud (AWS)**
-- 💬 Ask me about **Python, ML, React, Node.js**
-- ⚡ Fun fact: *I turn coffee ☕ into code and ideas into projects*
+-  Student passionate about **AI, Machine Learning & Web Development**
+-  Currently working on **AI-based projects & mini applications**
+-  Learning **Deep Learning, NLP, Docker & Cloud (AWS)**
+
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -40,30 +39,30 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 
 ---
 
-## ⚒️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 💡 Frontend
+###  Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 
-### ⚙️ Backend
+###  Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 
-### 🧠 AI / ML
+###  AI / ML
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-### 🗄️ Database
+###  Database
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
@@ -71,7 +70,7 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -87,18 +86,18 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-- 🤖 **AI Text Cleaner** – NLP-based preprocessing tool  
-- 📊 **Customer Segmentation** – K-Means clustering project  
-- 🎬 **Recommendation System** – KNN-based Netflix-style model  
-- 🧠 **Spam Classifier** – Machine Learning classification system  
+-  **AI Text Cleaner** – NLP-based preprocessing tool  
+-  **Customer Segmentation** – K-Means clustering project  
+-  **Recommendation System** – KNN-based Netflix-style model  
+-  **Spam Classifier** – Machine Learning classification system  
 
 ---
 
 
 
-## ✨ Quote I Like
+## Quote I Like
 
 > *"Code. Learn. Build. Repeat."*
 
