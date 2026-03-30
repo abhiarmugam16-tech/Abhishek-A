@@ -45,7 +45,7 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
@@ -57,7 +57,7 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws" />
 
 </div>
 
