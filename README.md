@@ -1,9 +1,11 @@
 # Abhishek-A
-I'm a student and aspiring developer passionate about artificial intelligence and software development. I'm constantly learning, building projects, and exploring new technologies to grow my skills and contribute to meaningful innovations.
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" />
+
+I'm a student and aspiring developer passionate about artificial intelligence and software development. I focus on building practical, real-world projects and continuously improving my skills in AI, machine learning, and full stack development.
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abhishek-A.Abhishek-A" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek!;+AI+%26+Full+Stack+Developer🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek!;+AI+%26+Full+Stack+Developer;+Building+Real+World+Projects;" />
 </h1>
 
 <h3 align="center">💻 AI Enthusiast | Full Stack Developer | India 🇮🇳</h3>
@@ -12,27 +14,26 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 
 ##  About Me
 
--  Student passionate about **AI, Machine Learning & Web Development**
--  Currently working on **AI-based projects & mini applications**
--  Learning **Deep Learning, NLP, Docker & Cloud (AWS)**
-
+-  Student passionate about **Artificial Intelligence, Machine Learning & Web Development**
+-  Building **end-to-end AI + Web applications**
+-  Currently learning:
+  - Deep Learning (Neural Networks, Transformers)
+  - NLP (Text Processing, Embeddings)
+  - Cloud & Deployment (AWS, Docker)
+-  Goal: Become a **skilled AI Engineer & Full Stack Developer**
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <div align="center">
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:abhiarmugam16@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
+<a href="https://www.linkedin.com/in/abhishek-a-9b7833278" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://yourportfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
 </a>
 
 </div>
@@ -43,26 +44,26 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 
 <div align="center">
 
-###  Frontend
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 
-###  Backend
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 
-###  AI / ML
+### AI / ML
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-###  Database
+### Database
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
-###  Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws" />
 
 </div>
 
 ---
 
-##  Contribution Graph
+## 📊 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
@@ -70,35 +71,40 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 
 ---
 
-##  GitHub Stats
+## 📈 GitHub Stats (Live)
 
 <div align="center">
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&border_radius=10" />
+<img width="390" src="https://streak-stats.demolab.com?user=Abhishek-A&theme=tokyonight&border_radius=10" />
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&border_radius=10" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Abhishek-A&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" />
 
 <br/>
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&border_radius=10" />
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-A&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" />
 
 </div>
 
 ---
 
-##  Featured Projects
+## 📊 Activity Graph
 
--  **AI Text Cleaner** – NLP-based preprocessing tool  
--  **Customer Segmentation** – K-Means clustering project  
--  **Recommendation System** – KNN-based Netflix-style model  
--  **Spam Classifier** – Machine Learning classification system  
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-A&theme=tokyo-night)](https://github.com/Abhishek-A)
 
 ---
 
 
 
-## Quote I Like
 
-> *"Code. Learn. Build. Repeat."*
+---
+
+##  Current Focus
+
+- Building **real-world AI applications**
+- Improving **DSA & problem-solving**
+- Learning **deployment (Docker + AWS)**
+
+---
+
 
 ---
