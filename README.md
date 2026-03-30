@@ -89,13 +89,6 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 
 
 
----
-
-
-
-
----
-
 ##  Current Focus
 
 - Building **real-world AI applications**
