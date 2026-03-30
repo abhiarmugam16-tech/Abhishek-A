@@ -63,7 +63,7 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 
 ---
 
-## 📊 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
@@ -71,7 +71,7 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 
 ---
 
-## 📈 GitHub Stats (Live)
+##  GitHub Stats (Live)
 
 <div align="center">
 
@@ -87,9 +87,7 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 
 ---
 
-## 📊 Activity Graph
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-A&theme=tokyo-night)](https://github.com/Abhishek-A)
 
 ---
 
