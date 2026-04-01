@@ -71,20 +71,24 @@ I'm a student and aspiring developer passionate about artificial intelligence an
 
 ---
 
-##  GitHub Stats (Live)
-
+## <!-- GitHub Stats  -->
 <div align="center">
 
-<img width="390" src="https://streak-stats.demolab.com?user=Abhishek-A&theme=tokyonight&border_radius=10" />
+  <!-- Streak Stats -->
+  <img width="390" 
+       src="https://streak-stats.demolab.com?user=Abhishek-A&theme=tokyonight&border_radius=10&cache_seconds=1800" />
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Abhishek-A&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" />
+  <!-- Main GitHub Stats -->
+  <img width="390" 
+       src="https://github-readme-stats.vercel.app/api?username=Abhishek-A&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true&cache_seconds=1800" />
 
-<br/>
+  <br/>
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-A&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" />
+  <!-- Top Languages -->
+  <img width="325" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-A&layout=compact&theme=tokyonight&border_radius=10&langs_count=8&cache_seconds=1800" />
 
 </div>
-
 ---
 
 
